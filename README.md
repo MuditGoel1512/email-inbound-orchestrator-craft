@@ -1,4 +1,4 @@
-# Welcome to our Postman Challenge project
+# Welcome to our Postmark Challenge project
 
 ## Project info
 
