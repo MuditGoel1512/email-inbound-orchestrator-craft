@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/f4594513-eee0-4140-8e3a-8d83be00bb71
+**URL**: (https://email-inbound-orchestrator-craft.lovable.app/)
 
 ## How can I edit this code?
 
